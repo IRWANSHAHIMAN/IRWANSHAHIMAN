@@ -1,10 +1,9 @@
-# Hi, I'm Irwan Shahiman! 👋
+# Hi, I'm Irwan Shahiman! 
 
 ### 🎓 Information Technology Student from Malaysia 🇲🇾
 
 I am an IT student who enjoys learning programming, web development, networking, and cybersecurity. I am currently improving my skills through laboratory exercises and practical projects.
 
----
 
 ## 👨‍💻 About Me
 
@@ -57,9 +56,6 @@ I am an IT student who enjoys learning programming, web development, networking,
 | [☕ Java Lab](https://github.com/IRWANSHAHIMAN/java-lab) | Java laboratory exercises and practical assignments |
 | [💻 Programming Fundamentals](https://github.com/IRWANSHAHIMAN/programming-fundamentals) | Beginner-friendly C++ programming exercises |
 | [🌐 Web Design](https://github.com/IRWANSHAHIMAN/web-design) | Projects developed using HTML, CSS, and JavaScript |
-
-## 📊 GitHub Statistics
-
 
 ---
 
