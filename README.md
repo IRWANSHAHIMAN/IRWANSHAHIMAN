@@ -49,14 +49,4 @@ I am an IT student who enjoys learning programming, web development, networking,
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux">
 </p>
 
-## 📚 Featured Repositories
-
-| Repository | Description |
-|---|---|
-| [☕ Java Lab](https://github.com/IRWANSHAHIMAN/java-lab) | Java laboratory exercises and practical assignments |
-| [💻 Programming Fundamentals](https://github.com/IRWANSHAHIMAN/programming-fundamentals) | Beginner-friendly C++ programming exercises |
-| [🌐 Web Design](https://github.com/IRWANSHAHIMAN/web-design) | Projects developed using HTML, CSS, and JavaScript |
-
----
-
-### ✨ “we can't skip the hard part because it's gonna help us grow.”
+## ✨ “we can't skip the hard part because it's gonna help us grow.”
