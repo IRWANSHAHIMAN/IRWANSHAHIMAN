@@ -1,52 +1,99 @@
-# Hi, I'm Irwan Shahiman! 
+### 💻 Information Technology | Developer | UI/UX Enthusiast
 
-### 🎓 Information Technology Student from Malaysia 🇲🇾
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077FF,100:00C6FF&height=200&section=header&text=WANNZ.%2RRAWR&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
 
-I am an IT student who enjoys learning programming, web development, networking, and cybersecurity. I am currently improving my skills through laboratory exercises and practical projects.
+<p align="center">
+  <b>Building ideas into simple digital experiences.</b>
+</p>
 
+---
 
 ## 👨‍💻 About Me
 
-- 🌱 Currently learning **Java, C++, HTML, CSS, and JavaScript**
-- ☕ Interested in **Object-Oriented Programming**
-- 🌐 Exploring **Web Development**
-- 🔐 Learning the fundamentals of **Cybersecurity and Networking**
-- 🎯 Goal: Become a skilled software developer
+I'm an **Information Technology student** passionate about technology, programming, and digital design.
 
-## 🛠️ Languages and Tools
+I enjoy building **web and mobile applications**, designing user-friendly interfaces, and exploring new technologies.
 
-###
+* 📱 Interested in Mobile App Development
+* 💻 Learning Software & Web Development
+* 🎨 Passionate about UI/UX Design
+* 🚀 Always learning and improving
+* 🎯 Looking to grow as a developer
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
-   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase">
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
-  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white" alt="NetBeans">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop">
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva">
-    <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows11&logoColor=white" alt="Windows">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux">
+---
+
+## 🛠️ Technologies & Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,cpp,html,css,js,react,figma,git,github,vscode" />
+
 </p>
 
-## ✨ “we can't skip the hard part because it's gonna help us grow.”
+---
+
+## 📱 Featured Projects
+
+### 🏸 Badminton Learning App
+
+A mobile application concept designed to help users learn and track basic badminton skills.
+**Focus:** UI/UX • Mobile Application
+
+### 🚌 Bus Ticket Booking App
+
+A simple mobile interface for searching buses, selecting schedules, and booking tickets.
+**Focus:** UI/UX • Mobile Application
+
+### 🚗 Car Bidding App
+
+A mobile application concept for browsing cars and participating in car bidding.
+**Focus:** UI Design • Web Development
+
+More...
+
+---
+
+## 🎨 What I Like Building
+
+```text
+📱 Mobile Apps       → Simple & useful experiences
+🌐 Websites          → Modern & responsive interfaces
+🎨 UI/UX             → Clean & user-friendly designs
+💻 Programming       → Solving problems with code
+```
+
+---
+
+## 📈 My Learning Journey
+
+```text
+2024 ──────── 2025 ──────── 2026 ──────── 🚀
+   │             │             │
+   └─ Programming └─ UI/UX      └─ Building Projects
+```
+
+> **Learn → Build → Improve → Repeat**
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+
+<a href="https://github.com/IRWANSHAHIMAN">
+<img src="https://img.shields.io/badge/GitHub-IRWANSHAHIMAN-181717?style=for-the-badge&logo=github">
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <i>"Every project is an opportunity to learn something new."</i>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
